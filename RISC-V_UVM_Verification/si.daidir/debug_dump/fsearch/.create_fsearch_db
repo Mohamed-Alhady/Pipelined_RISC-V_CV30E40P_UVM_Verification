@@ -1,0 +1,9 @@
+#!/bin/sh -h 
+PYTHONHOME=/tools/Synopsys/install/vcs/V-2023.12-1/etc/search/pyh
+export PYTHONHOME
+PYTHONPATH=/tools/Synopsys/install/vcs/V-2023.12-1/linux/lib/pylib27
+export PYTHONPATH
+LD_LIBRARY_PATH=/tools/Synopsys/install/vcs/V-2023.12-1/linux/lib:/tools/Synopsys/install/vcs/V-2023.12-1/linux/lib/pylib27
+export LD_LIBRARY_PATH
+/tools/Synopsys/install/vcs/V-2023.12-1/linux/bin/vcsfind_create_index.exe  -z  "/home/svgpdv25mohaaban/old/RISC-V_UVM_Verification/si.daidir/debug_dump/fsearch/./idents_Py32oE.xml.gz" "/home/svgpdv25mohaaban/old/RISC-V_UVM_Verification/si.daidir/debug_dump/fsearch/./idents_tapi.xml.gz" -o "/home/svgpdv25mohaaban/old/RISC-V_UVM_Verification/si.daidir/debug_dump/fsearch/fsearch.db_tmp"
+\mv "/home/svgpdv25mohaaban/old/RISC-V_UVM_Verification/si.daidir/debug_dump/fsearch/fsearch.db_tmp" "/home/svgpdv25mohaaban/old/RISC-V_UVM_Verification/si.daidir/debug_dump/fsearch/fsearch.db"

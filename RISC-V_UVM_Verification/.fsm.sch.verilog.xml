@@ -1,0 +1,29 @@
+<Command name="schRTLInfo"  delimiter="."  >
+<RTLBlock >
+<RTLInfo   name="state_0"  type="2"  fileName="rtl/cv32e40p_aligner.sv"  >
+    <Seg beginLine="68"  endLine="223"  />
+  </RTLInfo>
+ <Instance name="top.DUT.core_i.if_stage_i.aligner_i"  />
+</RTLBlock>
+<RTLBlock >
+<RTLInfo   name="ctrl_fsm_cs_1"  type="2"  fileName="rtl/cv32e40p_controller.sv"  >
+    <Seg beginLine="338"  endLine="1423"  />
+  </RTLInfo>
+ <RTLInfo   name="debug_fsm_cs_2"  type="2"  fileName="rtl/cv32e40p_controller.sv"  >
+    <Seg beginLine="1486"  endLine="1505"  />
+  </RTLInfo>
+ <Instance name="top.DUT.core_i.id_stage_i.controller_i"  />
+</RTLBlock>
+<RTLBlock >
+<RTLInfo   name="State_SP_3"  type="2"  fileName="rtl/cv32e40p_alu_div.sv"  >
+    <Seg beginLine="145"  endLine="195"  />
+  </RTLInfo>
+ <Instance name="top.DUT.core_i.ex_stage_i.alu_i.alu_div_i"  />
+</RTLBlock>
+<RTLBlock >
+<RTLInfo   name="mulh_CS_4"  type="2"  fileName="rtl/cv32e40p_mult.sv"  >
+    <Seg beginLine="147"  endLine="201"  />
+  </RTLInfo>
+ <Instance name="top.DUT.core_i.ex_stage_i.mult_i"  />
+</RTLBlock>
+ </Command>
