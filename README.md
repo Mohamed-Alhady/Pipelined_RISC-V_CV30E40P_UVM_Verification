@@ -7,4 +7,13 @@ Includes several custom extensions, such as hardware loops, post-increment load/
 ![Core CV32E40P architecture and details are shown in this figure](/Images/CV32E40P.png)
 
 
+For RV32I ISA, there are four core instruction formats (R/I/S/B/U/J), as shown in Figure.\
+All are a fixed 32 bits in length and must be aligned on a four-byte boundary in memory.
+
+
+![Core CV32E40P architecture and details are shown in this figure](/Images/instr_format.png) 
+
+The complete information and details of the core CV32E40P for all details about instruction formats and extentions are exist in these documents [guidelines](/docs/RISCV_CARD.pdf) [guidelines_2](/docs/riscv-spec-20191213_0.pdf)
+
+Also, for custom extensions and more details about the core and its implementation, this databook is very importan [databook](/Databook/) 
 
