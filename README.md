@@ -28,5 +28,5 @@ The OBI protocol that is used by the instruction fetch and LSU as shown in the b
 
 
    
-for more details about OBI Protocol see this document. [OBI Protocol Specification](/docs/OBI-v1.2.pdf)
+For more details about OBI Protocol see this document. [OBI Protocol Specification](/docs/OBI-v1.pdf)  
 
