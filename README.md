@@ -40,4 +40,26 @@ Our goals and targets could have achieved and covered through suitable and relia
 ![UVM Environment Architecture](/Images/ENV.png/)  
 
 
-you can look the entire goals and built enviroment with its explainations and details at this documents [CV32E40P Verification plan](/VPlan/verification_Plan(AutoRecovered).xlsx/)  [UVM Architecture Details ](/docs/RISC-V_Verification_Using_UVM.pdf/)        
+you can look the entire goals and built enviroment with its explainations and details at this documents [CV32E40P Verification plan](/VPlan/verification_Plan(AutoRecovered).xlsx/)  [UVM Architecture Details ](/docs/RISC-V_Verification_Using_UVM.pdf/)   
+
+
+## Functional Coverage
+
+The coverage report confirms 100% coverage across group metric. This achievement demonstrates that our covergroups and goals have been thoroughly exercised,   
+
+![Coverage Reports ](/Images/Dashboard.png/)  
+
+![Functional Coverage Reports_1 ](/Images/type_1.png/)
+
+![Functional Coverage Reports_2 ](/Images/type_2.png/)   
+
+![Functional Coverage Reports_3 ](/Images/type_3.png/)   
+
+![Functional Coverage Reports_4 ](/Images/type_4.png/)      
+
+![Assertions Coverage Reports ](/Images/assertions.png/)  
+
+
+
+
+       
