@@ -49,13 +49,13 @@ The coverage report confirms 100% coverage across group metric. This achieveme
 
 ![Coverage Reports ](/Images/Dashboard.png/)  
 
-![Functional Coverage Reports_1 ](/Images/type_1.png/)
+![Functional Coverage Reports_1 ](/Images/Type_1.png/)
 
-![Functional Coverage Reports_2 ](/Images/type_2.png/)   
+![Functional Coverage Reports_2 ](/Images/Type_2.png/)   
 
-![Functional Coverage Reports_3 ](/Images/type_3.png/)   
+![Functional Coverage Reports_3 ](/Images/Type_3.png/)   
 
-![Functional Coverage Reports_4 ](/Images/type_4.png/)      
+![Functional Coverage Reports_4 ](/Images/Type_4.png/)      
 
 ![Assertions Coverage Reports ](/Images/assertions.png/)  
 
